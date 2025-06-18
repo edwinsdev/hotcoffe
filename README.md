@@ -7,29 +7,17 @@ Hot Coffe es una aplicación web estática que representa la interfaz de un siti
 
 ProyectoHotCoffe/
 ├── Index.html                    # Página principal
-
 ├── menu.html                    # Página del menú de productos
-
 ├── css/
-
 │   ├── bootstrap.min.css        # Librería Bootstrap
-
 │   └── style.css                # Estilos personalizados
-
 ├── img/
-
 │   ├── favicon-96x96.jpg        # Favicon del sitio
-
 │   ├── hotcoffeelocal.png       # Imagen del local
-
 │   └── hotcoffeelogo.png        # Logo de la marca
-
 ├── js/
-
 │   ├── app.js                   # Funciones JavaScript propias
-
 │   └── librerias/
-
 │       └── bootstrap.bundle.min.js # Bootstrap con dependencias JS
 
 # Tecnologías Usadas
