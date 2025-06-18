@@ -1,0 +1,226 @@
+.brand-name {
+  font-family: Lato;
+  font-weight: 900;
+  font-size: 80px;
+  color: #e40101;
+}
+
+.border-logo {
+  border-style: solid;
+  border-color: #fc3333;
+  border-width: 2px;
+}
+
+.slogan {
+  font-family: Century;
+  font-weight: 800;
+  font-size: 25px;
+}
+
+.welcome-to {
+  font-family: Century;
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.description1 {
+  font-family: Cursive;
+  font-weight: 900;
+  font-size: 23px;
+  border-style: outset;
+  border-color: #e40101;
+  background-color: #ffe23c;
+}
+
+.phrase {
+  font-family: Trebuchet MS;
+  font-weight: 600;
+  font-size: 18px;
+  text-decoration: underline;
+  text-decoration-style: solid;
+}
+
+.coffe-site {
+  border-style: solid;
+  border-color: #ffe23c;
+  border-width: 3px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.hot-coffe-menu {
+  font-family: Lucida;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.product1 {
+  font-family: "Homer Simpson UI";
+  font-weight: 800;
+  font-size: 25px;
+  color: #e40101;
+}
+
+.description-product1 {
+  font-family: Garamond;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.product2 {
+  font-family: "Homer Simpson UI";
+  font-weight: 800;
+  font-size: 25px;
+  color: #e40101;
+}
+
+.description-product2 {
+  font-family: Garamond;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.product3 {
+  font-family: "Homer Simpson UI";
+  font-weight: 800;
+  font-size: 25px;
+  color: #e40101;
+}
+
+.description-product3 {
+  font-family: Garamond;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.proposal {
+  font-family: cursive;
+  font-weight: 600;
+  font-size: 26px;
+}
+
+.visit {
+  font-family: Century;
+  font-weight: 600;
+  font-size: 35px;
+  color: #e40101;
+}
+
+.address-hotcoffe {
+  font-family: Century;
+  font-weight: 600;
+  font-size: 30px;
+  color: #ff0000;
+}
+
+.schedule {
+  font-family: Century;
+  font-weight: 600;
+  font-size: 30px;
+  color: #e40101;
+}
+
+.contact-us {
+  font-family: Century;
+  font-weight: 800;
+  font-size: 35px;
+  color: #e40101;
+}
+
+.contact-service {
+  font-family: Century;
+  font-weight: 400;
+  font-size: 20px;
+  word-spacing: 2px;
+}
+
+.gmail-hotcoffe {
+  font-family: Century;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.contact-number {
+  font-family: Century;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.hotcoffe-navbar {
+  font-family: Century;
+  position: fixed;
+  top: 0;
+  transition: top 0.3s;
+  width: 100%;
+  z-index: 100;
+  font-weight: 900;
+  font-size: 20px;
+  background-color: #e91c1c;
+  border-style: solid;
+  border-color: #ffe23c;
+  border-width: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+  padding-top: 80px; /
+}
+
+.navbar-brand {
+  font-family: Lato;
+  font-weight: 900;
+  font-size: 35px;
+  color: rgb(247, 43, 43);
+  padding: 0.5em;
+}
+
+.nav-link {
+  font-family: lato;
+  font-weight: 900;
+  font-size: 25px;
+  color: rgb(238, 208, 41);
+  padding: 0.5em;
+  display: block;
+}
+
+.nav-link:hover {
+  color: rgb(247, 43, 43);
+}
+
+
+.menu-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 20px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(238, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  color: yellow;
+  font-family: Lato;
+  font-weight: 900;
+}
+
+.navbar-toggler {
+  border-color: #ffe23c;
+}
+
+.menu-boxes {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.menu-item {
+  background-color: #ffe23c;
+  border: 2px solid #e40101;
+  padding: 20px;
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
